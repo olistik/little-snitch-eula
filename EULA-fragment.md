@@ -2,5 +2,5 @@
 
 ## 3 LICENSE RESTRICTIONS
 
-- **Prohibition on Reverse Engineering, Decompilation, and Disassembly.**. You may not reverse engineer, decompile, or disassemble the SOFTWARE, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+- **Prohibition on Reverse Engineering, Decompilation, and Disassembly.**. You MAY reverse engineer, decompile, or disassemble the SOFTWARE, except and only to the extent that such activity is expressly PROHIBITED by applicable law notwithstanding this limitation.
 
